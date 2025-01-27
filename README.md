@@ -68,10 +68,4 @@ The dataset contains 4,601 rows and 58 columns. Each row represents an email, an
   - For tasks where **accuracy and robustness** are critical: Use **Random Forest Classifier**.
   - For tasks where **speed and simplicity** are prioritized: Use **Logistic Regression**.
 
----
 
-## How to Run
-1. Clone the repository or download the project files.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
